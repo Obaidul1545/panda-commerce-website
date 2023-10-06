@@ -1,0 +1,31 @@
+.container{
+    margin-bottom: 50px;
+}
+
+.carousel{
+    background: #FEEAE9;
+    border-radius: 20px;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.carousel-item h1{
+    margin-bottom: 21px;
+}
+
+.price{
+    color: #FF136F;
+    margin-bottom: 18px;
+}
+
+.custom_btn{
+    background: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+}
